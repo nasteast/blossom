@@ -1,0 +1,19 @@
+<html lang="en">
+<head>
+<title>Bar qalan</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<h1>Title</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br>
+<b>Consequuntur</b> veniam ipsa tempora reiciendis, labore tenetur! <br>
+Molestias animi delectus sit, corrupti suscipit non, temporibus <br>
+omnis <i>sapiente inventire fuga</i> est repellat eius.
+</p>
+<hr>
+<p>Lorem ipsun dolor sit amet, consesctetur adipisicing elit. <br>
+<b><i>Consequuntur veniam ipsa tempora reiciendis</i></b>, labore tenetur! <br>
+Molestias animi delectus sit, corrupti suscipit non, temporibus <br>
+omnis sapiente inventire fuga est repellat eius.
+</p>
+</html>
