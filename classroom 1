@@ -20,3 +20,36 @@ omnis sapiente inventire fuga est repellat eius.
 <img src="https://www.freepik.com/free-photo/pink-tree-nami-island-korea_11600417.htm#query=sakura&position=0&from_view=search&track=sph&uuid=6aea1aae-97e6-43ee-9674-0e1be1c0302e">
 </body>
 </html>
+
+<html lang="en">
+<body>
+<a href="index.html">Home</a><br>
+<ul>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ul>
+<ol>
+<li>1</li>
+<li>2</li>
+<li>3</li>
+</ol>
+<table border="1">
+<tr>
+<th>Name of the plant</th>
+<th>Length</th>
+</tr>
+<tr>
+<td>Orchid</td>
+<td>30 cm</td>
+</tr>
+<tr>
+<td>Lavender</td>
+<td>30-60-90 cm</td>
+</tr>
+</table>
+<h1 style="background color: rose quartz;font-size: 35;color: black;text-align: center;">
+<h1 style="background-color: cinereous;">₊˚⊹♡Hello♡⊹˚₊</h1>
+<h1 style="background: blush;">Welcome⋆˚✿˖°</h1>
+</body>
+</html>
