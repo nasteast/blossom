@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anastasia Sturzinschi- Portfolio</title>
+    <style>
+       
+        body {
+            font-family: Subway;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header, section, footer {
+            padding: 20px;
+            background-color: #F1DDDF;
+            margin-bottom: 20px;
+        }
+
+        h1, h2, h3 {
+            color: #476930;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        a {
+            color: #476930;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>My name</h1>
+        <p>Anastasia but i prefer just Nastea♡ ̆̈/p>
+    </header>
+
+    <section id="about">
+        <h2>About me</h2>
+        <p>I like to paint and draw˗ˏˋ ♡ ˎˊ˗</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Painting⋆ ˚｡⋆୨୧˚</li>
+            <li>Drawing⋆˚✿˖°</li>
+            <li>Cooking brownies✧˖°</li>
+            
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>My education</h2>
+        <p>High school-Orizont,Durlesti</p>
+        
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: flamingo2008s@gmail.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Anastasia Sturzinschi₊˚⊹♡</p>
+    </footer>
+
+</body>
+</html>
